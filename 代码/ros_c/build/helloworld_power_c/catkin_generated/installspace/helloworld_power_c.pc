@@ -1,0 +1,8 @@
+prefix=/home/zjh/ros_c/install
+
+Name: helloworld_power_c
+Description: Description of helloworld_power_c
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
