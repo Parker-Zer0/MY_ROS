@@ -189,6 +189,8 @@
 3.显示-显存大小
 
 > 这里直接拉到128即可
+>
+> 如果显示有问题可以在VMSVGA和VBoxSVGA之间换
 
 ![image-20220919205022374](E:\Texts\For_Git\MY_ROS\其他\环境配置类\assets\image-20220919205022374.png)
 
