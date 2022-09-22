@@ -1,2 +1,0 @@
-helloworld_power_py
--DCATKIN_DEVEL_PREFIX=/home/zjh/ros_py/devel -DCMAKE_INSTALL_PREFIX=/home/zjh/ros_py/install -G Unix Makefiles

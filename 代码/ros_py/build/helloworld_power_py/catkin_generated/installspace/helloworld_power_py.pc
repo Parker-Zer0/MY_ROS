@@ -1,8 +1,0 @@
-prefix=/home/zjh/ros_py/install
-
-Name: helloworld_power_py
-Description: Description of helloworld_power_py
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

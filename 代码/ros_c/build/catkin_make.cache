@@ -1,2 +1,0 @@
-helloworld_power_c
--DCATKIN_DEVEL_PREFIX=/home/zjh/ros_c/devel -DCMAKE_INSTALL_PREFIX=/home/zjh/ros_c/install -G Unix Makefiles
